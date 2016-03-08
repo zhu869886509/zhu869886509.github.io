@@ -271,7 +271,7 @@ a.btn-cta-secondary:hover,
 }
 
 .promo-wrapper {
-	background: #000000 url(../img/IMG_0132.JPG) no-repeat center center;
+	background: #000000 url(../img/home-bg.jpg) no-repeat center center;
 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1204,10 +1204,10 @@ a.btn-cta-secondary:hover,
 	}
 	.header.navbar-fixed-top {
 		position: fixed;
-		background: #fff;
+	/*	background: #fff;*/
 		-webkit-box-shadow: 0 0 4px rgba(0, 0, 0, .5);
 		-moz-box-shadow: 0 0 4px rgba(0, 0, 0, .5);
-		box-shadow: 0 0 4px rgba(0, 0, 0, .5);
+		/*box-shadow: 0 0 4px rgba(0, 0, 0, .5);*/
 		padding-top: 15px!important
 	}
 	.header.navbar-fixed-top h1.logo a {
