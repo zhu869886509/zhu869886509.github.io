@@ -2722,24 +2722,21 @@ ul.slimmenu li > ul {
 	width: 33.3333333333333333333333333%;
 }
 }
-/*@media(max-width:769px) and (min-width: 480px){
-    .big-text {
-        background:url('../images/meto.png') no-repeat center center;
-    }
 
-  
-
-
-
-}
 @media(max-width:480px){
+      .z ul{
+        width: 70%;
+      }
+     .z ul li{
+        width: 70%;
+     }
+        .z ul img{
+            width: 55%;
+        }
 
 }
 
-@media(min-width:769px){
 
-}
-*/
 
 
 .big-text span{ 
